@@ -1,4 +1,4 @@
-package EX_Static_Keyword;
+package EX_22_Static_Keyword;
 
 public class Static_002 {
     public static void main(String[] args) {
